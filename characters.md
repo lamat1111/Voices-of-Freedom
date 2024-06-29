@@ -307,6 +307,10 @@
   (Female, 1993, Kocho, Iraq)  
   Human rights activist and Nobel Peace Prize laureate who advocates for victims of sexual violence
 
+* Julian Assange 
+  (Male, 1971, Townsville, Australia)  
+  Founder of WikiLeaks, publishing classified information to promote transparency
+
 * Cassandra Heart  
-  (Female, b. ???, USA)
+  (Female, b. ???, USA)  
   American cryptographer, founder of Quilibrium
