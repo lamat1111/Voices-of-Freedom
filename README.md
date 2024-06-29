@@ -1,5 +1,7 @@
 # Voices of Freedom NFT Collection
 
+![image-text](https://i.ibb.co/mDJck4Y/voices-fo-freedom.jpg)
+
 ## Overview
 
 "Voices of Freedom" is a proposed NFT collection aimed at growing the Quilibrium community treasury. This unique collection will serve as both a fundraising tool and an "ambassador" for Quilibrium's mission.
