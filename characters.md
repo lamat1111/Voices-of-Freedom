@@ -1,7 +1,7 @@
 # Voices of Liberty
 ~ 100 Historical Figures Fighting for Freedom
 
-> [NOTE] This list is a first draft and still needs careful review.
+> [!NOTE] This list is a first draft and still needs careful review.
 > Please join the discussion on the [Quilibrium forum](https://quilibrium.discourse.group/t/community-treasury-nft-collection/355)
 
 ## Ancient World (Up to 500 CE)
