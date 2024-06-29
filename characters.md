@@ -71,6 +71,10 @@
 
 ## Renaissance and Enlightenment (1500-1800)
 
+* Giordano Bruno  
+  (Male, 1548-1600, Nola, Italy)  
+  Philosopher, mathematician, and astronomer who advocated for the infinite universe and free thought, executed for his beliefs
+
 * Mary Wollstonecraft  
   (Female, 1759, London, England)  
   Writer and philosopher who wrote "A Vindication of the Rights of Woman"
