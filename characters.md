@@ -1,4 +1,4 @@
-# Voices of Liberty
+# Voices of Freedom
 ~ 100 Historical Figures Fighting for Freedom
 
 > [!NOTE]
