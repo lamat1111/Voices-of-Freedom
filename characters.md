@@ -319,6 +319,10 @@
   (Male, 1971, Townsville, Australia)  
   Founder of WikiLeaks, publishing classified information to promote transparency
 
+* Sathoshi Nakamoto
+  (Gender Unknown, ???, ???, ???)  
+  Cryptographer, creator of Bitcoin
+
 * Cassandra Heart  
   (Female, b. ???, USA)  
   American cryptographer, founder of Quilibrium
