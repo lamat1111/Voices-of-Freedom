@@ -319,7 +319,7 @@
   (Male, 1971, Townsville, Australia)  
   Founder of WikiLeaks, publishing classified information to promote transparency
 
-* Sathoshi Nakamoto
+* Sathoshi Nakamoto  
   (Gender Unknown, ???, ???, ???)  
   Cryptographer, creator of Bitcoin
 
