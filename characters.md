@@ -315,6 +315,14 @@
   (Female, 1993, Kocho, Iraq)  
   Human rights activist and Nobel Peace Prize laureate who advocates for victims of sexual violence
 
+* Daniel Julius Bernstein  
+  (Male, 1971, USA)  
+  Sued the U.S. government to affirm code as free speech to allow publishing cryptographic implementations
+
+* Daryl Davis  
+  (Male, 1958, USA)  
+  Musician, anti-racist activist
+
 * Julian Assange  
   (Male, 1971, Townsville, Australia)  
   Founder of WikiLeaks, publishing classified information to promote transparency
