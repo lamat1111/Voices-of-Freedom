@@ -103,9 +103,8 @@ voices-of-freedom/
 
 ## 🚀 Phase 4: Minting & Deployment (Future)
 
-- Choose platform: Quilibrium, Ethereum, IPFS, Arweave
 - Consider lazy minting or batch minting
-- Upload metadata + assets to IPFS
+- Upload metadata + assets
 - Deploy smart contract with mint logic and DAO voting rights
 
 ---
